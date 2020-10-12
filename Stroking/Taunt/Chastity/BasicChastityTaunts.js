@@ -76,7 +76,7 @@
         'Your useless cock should remain locked at all times',
         'After being locked for as long as I want, you\'ll be rewarded a ruined orgasm, %SlaveName%!',
         'I don\'t want to unlock you',
-        'I told you I own your cock and this will serve as a reminder for the time being!',
+        'I told you I own your cock and this will serve as a reminder for the time being!'
     ];
 
     //Just casual images no text
