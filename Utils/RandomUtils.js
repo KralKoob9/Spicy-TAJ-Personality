@@ -4,10 +4,11 @@
  */
 function randomInteger(min, max) {
     if(min >= max) {
-        return max;
+        //parsing to intenger
+        return parseInt(max,10);
     }
 
-    return Math.floor(Math.random() * (max - min + 1)) + min;
+    return parseInt(Math.floor(Math.random() * (max - min + 1)) + min,10);
 }
 
 function getWinnerIndex(array) {
